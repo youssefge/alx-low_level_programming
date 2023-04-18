@@ -1,1 +1,1 @@
-typeedfstr
+typeedfstere
